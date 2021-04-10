@@ -1,14 +1,14 @@
 ## :briefcase: Experience
 ### Company #1 - Developer
-since January 2021
+since January 2021  
 Programming and watching cute cat videos.
 
 ### Company #2 - Frontend Developer
-January 2020 - December 2020
+January 2020 - December 2020  
 Fullfilment of extremely important tasks.
 
 ### Company #3 - Frontend Developer
-June 2019 - December 2019
+June 2019 - December 2019  
 Did everything.
 
 ## :mortar_board: Education
