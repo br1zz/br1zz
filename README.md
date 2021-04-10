@@ -31,6 +31,10 @@ Studied the art of procrastination
 2001-2004 NYU, Bachelor of Computer Science, NY, NY   
 2004-2006 UCLA, Master of Computer Science, Los Angeles, CA
 
+## References
+### John Doe @johndoe johndoe@gmail.com
+### John Doe J @johndoej johndoej@gmail.com
+
 ## Skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br1zz&layout=compact)
