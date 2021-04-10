@@ -28,7 +28,7 @@ Chased crows, wild people and made curls
 Studied the art of procrastination
 
 ## :mortar_board: Education
-2001-2004 NYU, Bachelor of Computer Science, NY, NY 
+2001-2004 NYU, Bachelor of Computer Science, NY, NY   
 2004-2006 UCLA, Master of Computer Science, Los Angeles, CA
 
 ## Skills
