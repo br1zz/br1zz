@@ -1,4 +1,4 @@
-## Experience
+## :briefcase: Experience
 ### Company #1 - Developer
 since January 2021
 Programming and watching cute cat videos.
@@ -11,7 +11,7 @@ Fullfilment of extremely important tasks.
 June 2019 - December 2019
 Did everything.
 
-## Education
+## :mortar_board: Education
 ### The night Watch
 Chased crows, wild people and made curls 
 
