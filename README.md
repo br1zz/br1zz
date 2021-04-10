@@ -1,4 +1,26 @@
-### Hi there 👋
+## Experience
+###Company #1 - Developer
+since January 2021
+Programming and watching cute cat videos.
+
+###Company #2 - Frontend Developer
+January 2020 - December 2020
+Fullfilment of extremely important tasks.
+
+###Company #3 - Frontend Developer
+June 2019 - December 2019
+Did everything.
+
+## Education
+###The night Watch
+Chased crows, wild people and made curls 
+
+###Procrastination University 
+Studied the art of procrastination
+
+##Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br1zz&layout=compact)]
 
 <!--
 **br1zz/br1zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
